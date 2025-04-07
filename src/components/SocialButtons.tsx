@@ -13,7 +13,7 @@ const SocialButtons = () => {
 				<MessageCircle className='h-6 w-6' />
 			</a>
 			<a
-				href='https://wa.me/79001234567'
+				href='https://wa.me/79690060606'
 				target='_blank'
 				rel='noopener noreferrer'
 				className='bg-green-500 text-white p-3 rounded-full hover:bg-green-600 transition-colors'

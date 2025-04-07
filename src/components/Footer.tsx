@@ -14,7 +14,7 @@ const Footer = () => {
 								className='flex items-center space-x-2 hover:text-blue-400'
 							>
 								<Phone className='h-5 w-5' />
-								<span>8 (986) 900-60-06</span>
+								<span>+7 (986) 900-60-06</span>
 							</a>
 							<a
 								href='mailto:mikato@duck.com'
